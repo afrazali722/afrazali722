@@ -5,7 +5,7 @@
 - 🔭 Currently working on ESP32 & STM32 Projects
 - 🌱 Learning Embedded AI and Edge Computing
 - 💬 Ask me about ESP32, STM32, Embedded C, PCB Design, BLE, LoRa
-- 📫 Reach me at: your@email.com
+- 📫 Reach me at: afrazali2003@gmail.com
 
 ## 🛠️ Languages and Tools
 
