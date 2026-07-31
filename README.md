@@ -1,19 +1,19 @@
-# Hi 👋, I'm Afraz Ali
+# Hi, I'm Afraz Ali
 
 ### Embedded Systems Engineer | Firmware Developer | IoT Enthusiast
 
-- 🔭 Currently working on ESP32 & STM32 Projects
-- 🌱 Learning Embedded AI and Edge Computing
-- 💬 Ask me about ESP32, STM32, Embedded C, PCB Design, BLE, LoRa
-- 📫 Reach me at: afrazali2003@gmail.com
+- Currently working on ESP32 & STM32 Projects
+- Learning Embedded AI and Edge Computing
+- Ask me about ESP32, STM32, Embedded C, PCB Design, BLE, LoRa
+- Reach me at: afrazali2003@gmail.com
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,arduino,git,github,vscode,python,linux"/>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
